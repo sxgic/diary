@@ -1,0 +1,16 @@
+#+类型: 2201
+#+日期: [[2022_01_25]]
+#+主页: [[归档202201]]
+#+date: [[Jan 25th, 2022]]
+
+* 随笔 #随笔
+** 当前我们很多人的现状是，先活着，剩下的以后再说吧。 #人生
+** 大多数的人更喜欢娱乐、消费类的产品，他们并不在乎效率、生产力之类的问题，自动推荐的 app 对他们而言更好（省时不需要动脑子），比如头条、抖音、淘宝……，他们节省下来的时间可以用来做自己喜欢的事情 —— 热爱生活/浪费时间。 #forblog
+* #一图胜千言 #记录
+** [[https://github.blog/2022-01-24-highlights-from-git-2-35/][Git 2.35 is released]] #技术 #工具
+** [[https://devtoys.app/][DevToys.app - 开发人员的离线瑞士军刀]] #工具
+* #一图胜千言
+** 技术性调整 #图片 #炒股
+[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-25-06-09-05.jpeg]]
+** 炒股“秘诀” #图片 #炒股
+[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-25-06-10-10.jpeg]]

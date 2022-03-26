@@ -1,0 +1,15 @@
+#+类型: 2201
+#+日期: [[2022_01_05]]
+#+主页: [[归档202201]]
+#+date: [[Jan 5th, 2022]]
+
+* 文字 #随笔
+:PROPERTIES:
+:collapsed: false
+:END:
+- 知识已经不是碎片化，知识现在已经趋于粉末化了。
+* #一图胜千言
+** 开新坑 #图片
+[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-05-06-13-40.jpeg]]
+** 新年快乐 #图片
+[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-05-06-54-19.jpeg]]

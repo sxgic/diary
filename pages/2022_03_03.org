@@ -1,0 +1,18 @@
+#+类型: 2203
+#+日期: [[2022_03_03]]
+#+主页: [[归档202203]]
+#+date: [[Mar 3rd, 2022]]
+
+* 随笔 #随笔
+** 习惯了安逸，日子就变成了日历。 #人生 #读书与思考
+** 学编程最难的是入门 入门后 网上的的教程多的吓人。真能让 0 基础入门编程，花个三五千都不是事。但是很多时候都是打着 1 元、9.9 学骗人的。9.9 躺尸都不愿写教程，更别说交一个 0 基础的。 #技术 #读书与思考
+* 记录 #记录
+** sql 学习 #技术 #程序员
+[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-03-03-05-11-59.jpeg]]
+** TCP #技术 #编程
+[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-03-03-05-13-17.jpeg]]
+* #一图胜千言
+** 学习编程 #图片 #技术 #程序员
+[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-03-03-04-59-31.jpeg]]
+** 找bug #图片 #技术
+[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-03-03-04-55-04.jpeg]]

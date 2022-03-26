@@ -1,0 +1,109 @@
+* 常用日期格式
+
+英式日期格式：8th March,2008 或 8 March,2008 格式为：日 月,年
+
+美式日期格式：March 8th,2008 或 March 8,2008 格式为：月 日,年
+
+中文日期格式：2008年3月8日
+
+
+* 月份缩写
+
+| 英文      | 中文   | 缩写  |
+| :-------: | :----: | :---: |
+| January   | 一月   | Jan.  |
+| February  | 二月   | Feb.  |
+| March     | 三月   | Mar.  |
+| April     | 四月   | Apr.  |
+| May       | 五月   | May   |
+| June      | 六月   | Jun.  |
+| July      | 七月   | Jul.  |
+| August    | 八月   | Aug.  |
+| September | 九月   | Sept. |
+| October   | 十月   | Oct.  |
+| November  | 十一月 | Nov.  |
+| December  | 十二月 | Dec.  |
+
+注：五月份没有缩写所以后面不用加.号, 九月是 Sept 四位或者 Sep 三位的缩写都可以, 其他的都取前三位。
+
+
+* 日期缩写
+
+日的缩写使用序数词的表示方法， 有规律的,以 1,2,3 结尾的数字比较特殊，分别以 st,nd,rd 表示,其他都用 th 表示
+
+如:
+
+1, 21, 31
+英文 = 1st, 21st, 31st (数字后面加 rd ) 11 号为 11th
+
+2, 22
+英文 = 2nd, 22nd (数字后面加 rd ) 12 号为 12th
+
+3, 33
+英文 = 3rd, 23rd (数字后面加 rd ) 13 号为 13th
+
+| 日期缩写  | 中文           | 特殊标注 |
+| :-------: | :------------: | :------: |
+| 1st       | First          | *        |
+| 2nd       | Second         | *        |
+| 3rd       | Third          | *        |
+| 4th       | Fourth         |          |
+| 5th       | Fifth          |          |
+| 6th       | Sixth          |          |
+| 7th       | Seventh        |          |
+| 8th       | Eighth         |          |
+| 9th       | Ninth          |          |
+| 10th      | Tenth          |          |
+| 11th      | Eleventh       | +        |
+| 12th      | Twelfth        | +        |
+| 13th      | Thirteenth     | +        |
+| 14th      | Fourteenth     |          |
+| 15th      | Fifteenth      |          |
+| 16th      | Sixteenth      |          |
+| 17th      | Seventeenth    |          |
+| 18th      | Eighteenth     |          |
+| 19th      | Nineteenth     |          |
+| 20th      | Twentieth      |          |
+| 21st      | Twenty-first   | *        |
+| 22nd      | Twenty-second  | *        |
+| 23rd      | Twenty-third   | *        |
+| 24th      | Twenty-fourth  |          |
+| 25th      | Twenty-fifth   |          |
+| 26th      | Twenty-sixth   |          |
+| 27th      | Twenty-seventh |          |
+| 28th      | Twenty-eighth  |          |
+| 29th      | Twenty-ninth   |          |
+| 30th      | Thirtieth      |          |
+| 31st      | Thirty-first   |          |
+
+注：月份 + 日期的写法 一般写法： August 29th 正式写法： 29th of August 全名： August twenty-ninth 缩写： Aug 29。
+
+
+* 星期缩写
+
+| 英文      | 中文   | 缩写   |
+| :-------: | :----: | :----: |
+| Monday    | 星期一 | Mon.   |
+| Tuesday   | 星期二 | Tues.  |
+| Wednesday | 星期三 | Wed.   |
+| Thursday  | 星期四 | Thurs. |
+| Friday    | 星期五 | Fri.   |
+| Saturday  | 星期六 | Sat.   |
+| Sunday    | 星期天 | Sun.   |
+
+注意：星期二﹑四是四位缩写。
+
+
+* 时间缩写
+
+通用的各国时间表示: 小时:分:秒 AM/PM，如：13:24:24 AM
+
+
+* 时间缩写
+
+如果要写星期，星期要紧挨日期，它既可以放在日期前面，也可以放在日期后面，星期也可以省略不写。 星期和日期之间不用标点，但要空一格，星期也可缩写。
+
+例如：Thursday Dec. 18, 2008 或 Dec.18，2008 Thursday
+
+天气情况必不可少,天气一般用一个形容词如:Sunny, Fine, Rainy, Snowy等表示。天气通常位于日记的右上角。
+
