@@ -1,4 +1,4 @@
-* 2022 年进度条 [ 22% ]，第 *13* 周（ [[周记202213]] ）。
+* 2022 年进度条 [ 23% ]，第 *14* 周（ [[周记202214]] ）。
 * 关于我：[[https://www.geekpanshi.com/panshi/][博客]] [[https://github.com/xingangshi][GitHub]] [[https://twitter.com/geekpanshi][Twitter]] [[https://weibo.com/u/6726260941][微博]] 。
 * 说明
 ** 只记录 [[随笔]]、[[记录]]、[[图片]] 各 2-3 个累计不超过 9 条的每日分享。
