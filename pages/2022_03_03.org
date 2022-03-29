@@ -9,7 +9,7 @@
 * 记录 #记录
 ** sql 学习 #技术 #程序员
 [[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-03-03-05-11-59.jpeg]]
-** TCP #技术 #编程
+** TCP #技术 #编程 
 [[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-03-03-05-13-17.jpeg]]
 * #一图胜千言
 ** 学习编程 #图片 #技术 #程序员
