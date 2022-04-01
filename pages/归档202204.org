@@ -1,0 +1,17 @@
+#+类型: 2022年
+#+主页: [[磐石-每日分享]]
+:PROPERTIES:
+:query-sort-by: 日期
+:query-table: true
+:query-sort-desc: true
+:query-properties: [:类型 :日期 :date]
+:END:
+#+BEGIN_QUERY
+{:title [:h3 "2022 年 4 月归档"]
+ :query [:find (pull ?b [*])
+       :where
+       [?b :block/properties ?p]
+       [(get ?p :类型) ?t]
+       [(= 2204 ?t)]]
+}
+#+END_QUERY
