@@ -1,8 +1,7 @@
-* 2022 年进度条 [ 25% ]，第 *15* 周（ [[周记202215]] ）。
-* 关于我：[[https://www.geekpanshi.com/panshi/][博客]] [[https://github.com/xingangshi][GitHub]] [[https://twitter.com/geekpanshi][Twitter]] [[https://weibo.com/u/6726260941][微博]] 。
+* [[https://www.sxgic.com/][关于我]]：[[https://www.geekpanshi.com/panshi/][博客]] [[https://github.com/xingangshi][GitHub]] [[https://twitter.com/geekpanshi][Twitter]] [[https://weibo.com/u/6726260941][微博]] 。
 * 说明
 ** 只记录 [[随笔]]、[[记录]]、[[图片]] 各 2-3 个累计不超过 9 条的每日分享。
-* 箴言
+* 共勉
 ** 不保证成功，不一定有用，知识只是点亮世间的灵光。
 ** 闲暇之余既然都是浪费时间，那为什么不选择自己喜欢的方式浪费呢？
 ** 生产垃圾是不可能有持久力的，垃圾 → 无用 → 无正向反馈 → 不会分泌多巴胺 → 无法坚持。
