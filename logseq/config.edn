@@ -169,7 +169,7 @@
  :journal/page-title-format "yyyy_MM_dd"
  :journal/file-name-format "yyyy_MM_dd"
  :publishing/all-pages-public? true
- :favorites ["2022年归档记录" "常用的英文日期缩写" "周记模板"]
+ :favorites ["上海疫情记录" "2022年归档记录" "上海疫情数据" "常用的英文日期缩写" "周记模板"]
  :graph/settings {:journal? true, :builtin-pages? true, :orphan-pages? false}
  :feature/enable-timetracking? false
  :ui/show-brackets? false
