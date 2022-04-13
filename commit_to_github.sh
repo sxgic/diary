@@ -3,6 +3,8 @@ source_dir="../diaryshare-qys"
 git checkout pages
 git pull
 
+rm -rf ./pages/* ./logseq/*
+
 cp -rf $source_dir/pages/* ./pages
 
 cp -rf $source_dir/logseq/* ./logseq
