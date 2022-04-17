@@ -4,8 +4,8 @@
 #+NANE: total
 | 分类 |   累计 |  确诊 | 无症状 | 日期                 |
 |------+--------+-------+--------+----------------------|
-| 总计 | 297918 | 17605 | 280313 | 截止 2022-04-16 0 点 |
-| 4 月 | 267721 | 16415 | 251306 | 截止 2022-04-16 0 点 |
+| 总计 | 322738 | 20843 | 301895 | 截止 2022-04-17 0 点 |
+| 4 月 | 292541 | 19653 | 272888 | 截止 2022-04-17 0 点 |
 | 3 月 |  30190 |  1190 |  29000 | 截止 2022-03-31      |
 | 2 月 |      7 |     0 |      7 | 截止 2022-02-28      |
 #+TBLFM: @5$3=remote(d2, @2$4) + remote(d2, @2$5) + remote(d2, @2$6)+ remote(d2, @2$7)+ remote(d2, @2$8)+ remote(d2, @2$9)
@@ -14,8 +14,8 @@
 #+TBLFM: @4$3=remote(d3, @8$2) + remote(d3, @8$3) + remote(d3, @8$4) + remote(d3, @8$5) + remote(d3, @8$6)+ remote(d3, @8$7)+ remote(d3, @8$8)+ remote(d3, @8$9)+ remote(d3, @8$10 + remote(d3, @8$11) + remote(d3, @8$12) + remote(d3, @5$2) + remote(d3, @5$3) + remote(d3, @5$4) + remote(d3, @5$5) + remote(d3, @5$6)+ remote(d3, @5$7)+ remote(d3, @5$8)+ remote(d3, @5$9)+ remote(d3, @5$10)+ remote(d3, @5$11) + remote(d3, @2$2) + remote(d3, @2$3) + remote(d3, @2$4) + remote(d3, @2$5) + remote(d3, @2$6)+ remote(d3, @2$7)+ remote(d3, @2$8)+ remote(d3, @2$9)+ remote(d3, @2$10)+ remote(d3, @2$11)
 #+TBLFM: @4$4=remote(d3, @3$2) + remote(d3, @3$3) + remote(d3, @3$4) + remote(d3, @3$5) + remote(d3, @3$6)+ remote(d3, @3$7)+ remote(d3, @3$8)+ remote(d3, @3$9)+ remote(d3, @3$10 + remote(d3, @3$11) + remote(d3, @6$2) + remote(d3, @6$3) + remote(d3, @6$4) + remote(d3, @6$5) + remote(d3, @6$6)+ remote(d3, @6$7)+ remote(d3, @6$8)+ remote(d3, @6$9)+ remote(d3, @6$10 + remote(d3, @6$11) + remote(d3, @9$2) + remote(d3, @9$3) + remote(d3, @9$4) + remote(d3, @9$5) + remote(d3, @9$6)+ remote(d3, @9$7)+ remote(d3, @9$8)+ remote(d3, @9$9)+ remote(d3, @9$10 + remote(d3, @9$11) + remote(d3, @9$12)
 #+TBLFM: @4$2=@4$3+@4$4
-#+TBLFM: @3$3=remote(d4, @5$6) + remote(d4, @5$5) + remote(d4, @5$4) + remote(d4, @5$3) + remote(d4, @5$2) + remote(d4, @2$2) + remote(d4, @2$3) + remote(d4, @2$4) + remote(d4, @2$5) + remote(d4, @2$6)+ remote(d4, @2$7)+ remote(d4, @2$8)+ remote(d4, @2$9)+ remote(d4, @2$10 + remote(d4, @2$11)
-#+TBLFM: @3$4=remote(d4, @6$6) + remote(d4, @6$5) + remote(d4, @6$4) + remote(d4, @6$3) + remote(d4, @6$2) + remote(d4, @3$2) + remote(d4, @3$3) + remote(d4, @3$4) + remote(d4, @3$5) + remote(d4, @3$6)+ remote(d4, @3$7)+ remote(d4, @3$8)+ remote(d4, @3$9)+ remote(d4, @3$10 + remote(d4, @3$11)
+#+TBLFM: @3$3=remote(d4, @5$7) + remote(d4, @5$6) + remote(d4, @5$5) + remote(d4, @5$4) + remote(d4, @5$3) + remote(d4, @5$2) + remote(d4, @2$2) + remote(d4, @2$3) + remote(d4, @2$4) + remote(d4, @2$5) + remote(d4, @2$6)+ remote(d4, @2$7)+ remote(d4, @2$8)+ remote(d4, @2$9)+ remote(d4, @2$10 + remote(d4, @2$11)
+#+TBLFM: @3$4=remote(d4, @6$7) + remote(d4, @6$6) + remote(d4, @6$5) + remote(d4, @6$4) + remote(d4, @6$3) + remote(d4, @6$2) + remote(d4, @3$2) + remote(d4, @3$3) + remote(d4, @3$4) + remote(d4, @3$5) + remote(d4, @3$6)+ remote(d4, @3$7)+ remote(d4, @3$8)+ remote(d4, @3$9)+ remote(d4, @3$10 + remote(d4, @3$11)
 #+TBLFM: @3$2=@3$3+@3$4
 #+TBLFM: @2$2..@2$4=vsum(@3..@>);f2
 #+TBLFM: @2$5='(concat "截止 " (format-time-string "%Y-%m-%d") " 0 点");N
@@ -48,8 +48,8 @@
 | 无症状 |  6051 |  7788 |  8581 | 13086 | 16766 | 19660 | 20398 | 22609 | 23937 | 25173 |
 | 4 月   |    11 |    12 |    13 |    14 |    15 |    16 |    17 |    18 |    19 |    20 |
 |--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------|
-| 确诊   |   994 |  1189 |  2573 |  3200 |  3590 |       |       |       |       |       |
-| 无症状 | 22348 | 25141 | 25146 | 19872 | 19923 |       |       |       |       |       |
+| 确诊   |   994 |  1189 |  2573 |  3200 |  3590 |  3238 |       |       |       |       |
+| 无症状 | 22348 | 25141 | 25146 | 19872 | 19923 | 21582 |       |       |       |       |
 | 4 月   |    21 |    22 |    23 |    24 |    25 |    26 |    27 |    28 |    29 |    30 |
 |--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------|
 | 确诊   |       |       |       |       |       |       |       |       |       |       |
