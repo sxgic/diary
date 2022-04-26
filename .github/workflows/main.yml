@@ -30,11 +30,15 @@ jobs:
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: copy assets
         run: sudo bash org_cp_assets.sh
+      - name: chmod mode
+        run: sudo /usr/bin/chmod -R +rw /home/runner/work/diary/diary/www
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4.1.9
+        uses: JamesIves/github-pages-deploy-action@v4.3.0
 
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: www # The folder the action should deploy.
           clean: true
+          clean-exclude: |
+            assets/*.txt
           single-commit: true
