@@ -31,7 +31,7 @@ jobs:
       - name: copy assets
         run: sudo bash org_cp_assets.sh
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4.3.0
+        uses: JamesIves/github-pages-deploy-action@v4.1.9
 
         with:
           branch: gh-pages # The branch the action should deploy to.
