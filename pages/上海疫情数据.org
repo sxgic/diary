@@ -4,8 +4,8 @@
 #+NANE: total
 | 分类 |   累计 |  确诊 | 无症状 | 死亡 | 感染率/% | 日期                 |
 |------+--------+-------+--------+------+----------+----------------------|
-| 总计 | 516850 | 41281 | 475569 |  138 |     2.08 | 截止 2022-04-25 0 点 |
-| 4 月 | 480202 | 39736 | 440466 |  138 |          | 截止 2022-04-25 0 点 |
+| 总计 | 533631 | 42942 | 490689 |  190 |     2.15 | 截止 2022-04-26 0 点 |
+| 4 月 | 496983 | 41397 | 455586 |  190 |          | 截止 2022-04-26 0 点 |
 | 3 月 |  36641 |  1545 |  35096 |      |          | 截止 2022-03-31      |
 | 2 月 |      7 |     0 |      7 |      |          | 截止 2022-02-28      |
 #+TBLFM: @5$3=remote(d2, @2$4) + remote(d2, @2$5) + remote(d2, @2$6) + remote(d2, @2$7) + remote(d2, @2$8) + remote(d2, @2$9)
@@ -14,9 +14,9 @@
 #+TBLFM: @4$3=remote(d3, @8$2) + remote(d3, @8$3) + remote(d3, @8$4) + remote(d3, @8$5) + remote(d3, @8$6)+ remote(d3, @8$7)+ remote(d3, @8$8)+ remote(d3, @8$9)+ remote(d3, @8$10) + remote(d3, @8$11) + remote(d3, @8$12) + remote(d3, @5$2) + remote(d3, @5$3) + remote(d3, @5$4) + remote(d3, @5$5) + remote(d3, @5$6)+ remote(d3, @5$7)+ remote(d3, @5$8)+ remote(d3, @5$9)+ remote(d3, @5$10)+ remote(d3, @5$11) + remote(d3, @2$2) + remote(d3, @2$3) + remote(d3, @2$4) + remote(d3, @2$5) + remote(d3, @2$6)+ remote(d3, @2$7)+ remote(d3, @2$8)+ remote(d3, @2$9)+ remote(d3, @2$10)+ remote(d3, @2$11)
 #+TBLFM: @4$4=remote(d3, @3$2) + remote(d3, @3$3) + remote(d3, @3$4) + remote(d3, @3$5) + remote(d3, @3$6)+ remote(d3, @3$7)+ remote(d3, @3$8)+ remote(d3, @3$9)+ remote(d3, @3$10) + remote(d3, @3$11) + remote(d3, @6$2) + remote(d3, @6$3) + remote(d3, @6$4) + remote(d3, @6$5) + remote(d3, @6$6)+ remote(d3, @6$7)+ remote(d3, @6$8)+ remote(d3, @6$9)+ remote(d3, @6$10) + remote(d3, @6$11) + remote(d3, @9$2) + remote(d3, @9$3) + remote(d3, @9$4) + remote(d3, @9$5) + remote(d3, @9$6)+ remote(d3, @9$7)+ remote(d3, @9$8)+ remote(d3, @9$9)+ remote(d3, @9$10) + remote(d3, @9$11) + remote(d3, @9$12)
 #+TBLFM: @4$2=@4$3+@4$4
-#+TBLFM: @3$3=remote(d4, @9$5) + remote(d4, @9$4) + remote(d4, @9$3) + remote(d4, @9$2) + remote(d4, @5$11) + remote(d4, @5$10) + remote(d4, @5$9) + remote(d4, @5$8) + remote(d4, @5$7) + remote(d4, @5$6) + remote(d4, @5$5) + remote(d4, @5$4) + remote(d4, @5$3) + remote(d4, @5$2) + remote(d4, @2$2) + remote(d4, @2$3) + remote(d4, @2$4) + remote(d4, @2$5) + remote(d4, @2$6)+ remote(d4, @2$7)+ remote(d4, @2$8)+ remote(d4, @2$9)+ remote(d4, @2$10) + remote(d4, @2$11)
-#+TBLFM: @3$4=remote(d4, @10$5) + remote(d4, @10$4) + remote(d4, @10$3) + remote(d4, @10$2) + remote(d4, @6$11) + remote(d4, @6$10) + remote(d4, @6$9) + remote(d4, @6$8) + remote(d4, @6$7) + remote(d4, @6$6) + remote(d4, @6$5) + remote(d4, @6$4) + remote(d4, @6$3) + remote(d4, @6$2) + remote(d4, @3$2) + remote(d4, @3$3) + remote(d4, @3$4) + remote(d4, @3$5) + remote(d4, @3$6)+ remote(d4, @3$7)+ remote(d4, @3$8)+ remote(d4, @3$9)+ remote(d4, @3$10) + remote(d4, @3$11)
-#+TBLFM: @3$5=remote(d4, @11$5) + remote(d4, @11$4) + remote(d4, @11$3) + remote(d4, @11$2) + remote(d4, @7$11) + remote(d4, @7$10) + remote(d4, @7$9) + remote(d4, @7$8)
+#+TBLFM: @3$3=remote(d4, @9$6) + remote(d4, @9$5) + remote(d4, @9$4) + remote(d4, @9$3) + remote(d4, @9$2) + remote(d4, @5$11) + remote(d4, @5$10) + remote(d4, @5$9) + remote(d4, @5$8) + remote(d4, @5$7) + remote(d4, @5$6) + remote(d4, @5$5) + remote(d4, @5$4) + remote(d4, @5$3) + remote(d4, @5$2) + remote(d4, @2$2) + remote(d4, @2$3) + remote(d4, @2$4) + remote(d4, @2$5) + remote(d4, @2$6)+ remote(d4, @2$7)+ remote(d4, @2$8)+ remote(d4, @2$9)+ remote(d4, @2$10) + remote(d4, @2$11)
+#+TBLFM: @3$4=remote(d4, @10$6) + remote(d4, @10$5) + remote(d4, @10$4) + remote(d4, @10$3) + remote(d4, @10$2) + remote(d4, @6$11) + remote(d4, @6$10) + remote(d4, @6$9) + remote(d4, @6$8) + remote(d4, @6$7) + remote(d4, @6$6) + remote(d4, @6$5) + remote(d4, @6$4) + remote(d4, @6$3) + remote(d4, @6$2) + remote(d4, @3$2) + remote(d4, @3$3) + remote(d4, @3$4) + remote(d4, @3$5) + remote(d4, @3$6)+ remote(d4, @3$7)+ remote(d4, @3$8)+ remote(d4, @3$9)+ remote(d4, @3$10) + remote(d4, @3$11)
+#+TBLFM: @3$5=remote(d4, @11$6) + remote(d4, @11$5) + remote(d4, @11$4) + remote(d4, @11$3) + remote(d4, @11$2) + remote(d4, @7$11) + remote(d4, @7$10) + remote(d4, @7$9) + remote(d4, @7$8)
 #+TBLFM: @3$2=@3$3+@3$4
 #+TBLFM: @2$2..@2$5=vsum(@3..@>);f2
 #+TBLFM: @2$6=@2$2*100/24870895;f2
@@ -35,9 +35,9 @@
 | 死亡   |       |       |       |       |       |       |     3 |     7 |     7 |     8 |
 | 4 月   |    21 |    22 |    23 |    24 |    25 |    26 |    27 |    28 |    29 |    30 |
 |--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------|
-| 确诊   |  1931 |  2736 |  1401 |  2472 |       |       |       |       |       |       |
-| 无症状 | 15698 | 20634 | 19657 | 16983 |       |       |       |       |       |       |
-| 死亡   |    11 |    12 |    39 |    51 |       |       |       |       |       |       |
+| 确诊   |  1931 |  2736 |  1401 |  2472 |  1661 |       |       |       |       |       |
+| 无症状 | 15698 | 20634 | 19657 | 16983 | 15120 |       |       |       |       |       |
+| 死亡   |    11 |    12 |    39 |    51 |    52 |       |       |       |       |       |
 
 #+NAME: d3
 | 3 月   |   1 |   2 |   3 |    4 |    5 |    6 |    7 |    8 |    9 |   10 |      |
