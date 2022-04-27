@@ -169,10 +169,11 @@
  :journal/page-title-format "yyyy_MM_dd"
  :journal/file-name-format "yyyy_MM_dd"
  :publishing/all-pages-public? true
- :favorites ["上海疫情" "上海疫情记录" "2022年归档记录" "常用的英文日期缩写" "周记模板"]
+ :favorites ["2022年归档记录" "常用的英文日期缩写" "周记模板"]
  :graph/settings {:journal? true, :builtin-pages? true, :orphan-pages? false}
  :feature/enable-timetracking? false
  :ui/show-brackets? false
+ :mobile/toolbar-stats {:bold {:counts 0}, :brand-youtube {:counts 1}, :checkbox {:counts 0}, :parentheses {:counts 0}, :command {:counts 1}, :paint {:counts 0}, :list {:counts 0}, :link {:counts 0}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 4}, :rotate {:counts 0}, :tag {:counts 8}, :brackets {:counts 0}, :italic {:counts 0}, :a-b {:counts 0}, :rotate-clockwise {:counts 0}}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
