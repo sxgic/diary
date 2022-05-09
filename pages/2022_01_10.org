@@ -11,6 +11,6 @@
 根据竞争排斥原理，如果一个增强回路使一位参与者取得了胜利，占据了竞争的优势地位，那么它将在未来的竞争中继续获胜，甚至将消灭几乎所有竞争者。
 * #一图胜千言
 ** 强奸文化的结构 #图片
-[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-10-08-18-38.jpeg]]
+[[../assets/2022-01-10-08-18-38.jpeg]]
 ** ICU费用一览 #图片
-[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-10-08-17-12.jpeg]]
+[[../assets/2022-01-10-08-17-12.jpeg]]

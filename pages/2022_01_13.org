@@ -13,6 +13,6 @@
 ** “平庸之恶”就像表面蔓延的一层霉菌。它没有思考，因而缺乏深度。这就是平庸。只有善才有深度，才是根本的。 —— 汉娜·阿伦特 #箴言
 * #一图胜千言
 ** 穷人和富人 #图片
-[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-13-05-56-56.jpeg]]
+[[../assets/2022-01-13-05-56-56.jpeg]]
 ** 抗癌药的真相 #图片
-[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-13-06-00-22.jpeg]]
+[[../assets/2022-01-13-06-00-22.jpeg]]

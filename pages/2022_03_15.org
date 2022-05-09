@@ -11,6 +11,6 @@
 ** 事实上，我遇到更多的情况是：买了服务器、云空间、博客，其实不怎么用的，所以工具本身并不是最重要的，重要的是我们知道自己需要什么、要去做什么。 #人生 #读书与思考
 * #一图胜千言
 ** 成都龙潭寺宣 #图片 #巨婴
-[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-03-15-05-12-25.jpeg]]
+[[../assets/2022-03-15-05-12-25.jpeg]]
 ** 无题 #图片 #历史
-[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-03-15-05-13-56.jpeg]]
+[[../assets/2022-03-15-05-13-56.jpeg]]

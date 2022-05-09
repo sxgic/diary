@@ -10,6 +10,6 @@
 3. 提出道歉：说明你的错误，也说明你的改变，但是把是否原谅的决定权留给对方。 #forblog
 * #一图胜千言
 ** 表里不一的我 #图片
-[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-17-06-48-30.jpeg]]
+[[../assets/2022-01-17-06-48-30.jpeg]]
 ** 你永远无法满足所有人 #图片
-[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-17-06-49-48.jpeg]]
+[[../assets/2022-01-17-06-49-48.jpeg]]

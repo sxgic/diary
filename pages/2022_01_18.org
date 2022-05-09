@@ -8,5 +8,5 @@
 ** 不要相信运气，更不要偏爱运气，所谓的好运气，不过是那些努力后的人才有的。 #箴言
 * #一图胜千言
 ** 生活于我如浮云 #图片
-[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-18-04-12-34.jpeg]]
-** 做事情的方式 #图片 [[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-18-04-14-51.jpeg]]
+[[../assets/2022-01-18-04-12-34.jpeg]]
+** 做事情的方式 #图片 [[../assets/2022-01-18-04-14-51.jpeg]]

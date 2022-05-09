@@ -6,6 +6,6 @@
 * 随笔 #随笔
 * #一图胜千言
 ** 能用就行 #图片
-[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-08-05-58-09.jpeg]]{:height 745, :width 405}
+[[../assets/2022-01-08-05-58-09.jpeg]]{:height 745, :width 405}
 ** 媒体的作用 #图片
-[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-08-06-01-34.jpeg]]
+[[../assets/2022-01-08-06-01-34.jpeg]]

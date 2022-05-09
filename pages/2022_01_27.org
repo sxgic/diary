@@ -17,6 +17,6 @@
 ** 前几天和朋友说了一个观点，假如一个人拥有很多东西，比如很多照片、视频、书…，但是又不清楚具体有什么，用的时候找不到 那其实等于他“没有”，或许可以被知道和检索到才是一个有效的信息或存在。
 * #一图胜千言
 ** 新七宗罪 #图片
-[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-27-05-52-23.jpeg]]
+[[../assets/2022-01-27-05-52-23.jpeg]]
 ** 咖啡的作用 #图片 #程序员 #技术
-[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-27-05-54-27.jpeg]]
+[[../assets/2022-01-27-05-54-27.jpeg]]

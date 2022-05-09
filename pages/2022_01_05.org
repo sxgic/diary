@@ -10,6 +10,6 @@
 - 知识已经不是碎片化，知识现在已经趋于粉末化了。
 * #一图胜千言
 ** 开新坑 #图片
-[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-05-06-13-40.jpeg]]
+[[../assets/2022-01-05-06-13-40.jpeg]]
 ** 新年快乐 #图片
-[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-05-06-54-19.jpeg]]
+[[../assets/2022-01-05-06-54-19.jpeg]]
