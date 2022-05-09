@@ -11,6 +11,6 @@
 ** 本算法渣第一次听到“动态清零”这个词的时候还以为是什么高级算法，不比“动态规划”简单。我现在理解，它就是反复跑：上海filter(\阳性).map（移送方仓）。 #疫情 #上海疫情
 * #一图胜千言
 ** 无题 #图片 #疫情 #人生
-[[../assets/2022-04-06-07-25-32.jpeg]]
+[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-04-06-07-25-32.jpeg]]
 ** 如何学习 #图片 #疫情
-[[../assets/2022-04-06-09-19-39.jpeg]]
+[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-04-06-09-19-39.jpeg]]

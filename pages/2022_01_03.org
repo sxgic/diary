@@ -14,6 +14,6 @@
 ** 某某人生日是 {{cloze 2022-01-24}}
 * #一图胜千言
 ** 孩子正确的引导 #图片
-[[../assets/2022-01-03-00-56-39.png]]
+[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-03-00-56-39.png]]
 ** 实验室悖论 #图片
-[[../assets/2022-01-03-00-56-38.png]]
+[[https://nas.qysit.com:2046/geekpanshi/diaryshare/-/raw/main/assets/2022-01-03-00-56-38.png]]
