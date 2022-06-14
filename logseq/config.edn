@@ -173,7 +173,7 @@
  :graph/settings {:journal? true, :builtin-pages? true, :orphan-pages? false}
  :feature/enable-timetracking? false
  :ui/show-brackets? false
- :mobile/toolbar-stats {:bold {:counts 1}, :brand-youtube {:counts 3}, :checkbox {:counts 0}, :parentheses {:counts 0}, :command {:counts 11}, :paint {:counts 0}, :list {:counts 0}, :link {:counts 0}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 52}, :rotate {:counts 0}, :tag {:counts 79}, :brackets {:counts 0}, :italic {:counts 0}, :a-b {:counts 0}, :rotate-clockwise {:counts 0}}
+ :mobile/toolbar-stats {:bold {:counts 1}, :brand-youtube {:counts 3}, :checkbox {:counts 0}, :parentheses {:counts 0}, :command {:counts 11}, :paint {:counts 0}, :list {:counts 0}, :link {:counts 0}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 55}, :rotate {:counts 0}, :tag {:counts 86}, :brackets {:counts 0}, :italic {:counts 0}, :a-b {:counts 0}, :rotate-clockwise {:counts 0}}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
