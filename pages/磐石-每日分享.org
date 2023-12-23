@@ -1,4 +1,4 @@
-* [[https://www.sxgic.com/][关于我]]：[[https://www.geekpanshi.com/panshi/][博客]] [[https://github.com/xingangshi][GitHub]] [[https://twitter.com/geekpanshi][Twitter]] [[https://weibo.com/u/6726260941][微博]] 。
+* [[https://shixingang.com/][关于我]]：[[https://www.geekpanshi.com/panshi/][博客]] [[https://github.com/xingangshi][GitHub]] [[https://twitter.com/geekpanshi][Twitter]] [[https://weibo.com/u/6726260941][微博]] 。
 * 说明
 ** 只记录 [[随笔]]、[[记录]]、[[图片]] 各 2-3 个累计不超过 9 条的每日分享。
 * 共勉
