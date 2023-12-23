@@ -1,6 +1,7 @@
-#+类型: 2022年
-#+主页: [[2022年归档记录]]
-* 2022 年 7 月归档
+#+类型: 2023年
+#+主页: [[2023年归档记录]]
+
+* 2023 年 12 月归档
 :PROPERTIES:
 :query-sort-by: 日期
 :query-table: true
@@ -8,11 +9,12 @@
 :query-properties: [:类型 :日期 :date]
 :END:
 #+BEGIN_QUERY
-{:title [:h3 "2022 年 7 月归档"]
+{:title [:h3 "2023 年 12 月归档"]
  :query [:find (pull ?b [*])
        :where
        [?b :block/properties ?p]
        [(get ?p :类型) ?t]
-       [(= 2207 ?t)]]
+       [(= 2312 ?t)]]
 }
 #+END_QUERY
+*
